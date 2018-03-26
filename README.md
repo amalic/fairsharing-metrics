@@ -10,8 +10,6 @@ The purpose of this project is to provide automation as a stand-alone implementa
 
 - Installing [Docker](https://docs.docker.com/) for [Mac](https://docs.docker.com/docker-for-mac/install/) and [Windows](https://docs.docker.com/docker-for-windows/install/download-docker-for-windows)
 
-![docker](img/docker.png)
-
 ## Usage
 
 ### Clone the repository
